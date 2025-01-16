@@ -32,7 +32,8 @@ The project features a comprehensive Power BI dashboard that visualizes various 
 ![View Power BI Dashboard](https://github.com/Samikhya-Sahoo/Hospital-Patient-Data-Analytics-Project/blob/main/POWER%20BI%20HOSPITAL%20DASHBOARD.png)
 
 ## DAX Measures
-The project utilizes various DAX measures to enhance data analysis and insights. 
+The project utilizes various DAX measures to enhance data analysis and insights. Below is a screenshot showcasing some of the DAX measures implemented in the project.
+
 ![View DAX Measures](https://github.com/Samikhya-Sahoo/Hospital-Patient-Data-Analytics-Project/blob/main/DAX%20Measures.png)
 
 ## Dataset

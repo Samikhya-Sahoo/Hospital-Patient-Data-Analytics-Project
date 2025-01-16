@@ -27,8 +27,7 @@ This project aims to analyze hospital patient data to extract meaningful insight
 - **DAX (Data Analysis Expressions)**: Using DAX formulas for calculated columns and measures.
 - **Data Sources**: Hospital patient dataset (CSV file).
 
-
-- ## Dashboards
+ ## Dashboards
 The project features a comprehensive Power BI dashboard that visualizes various aspects of hospital patient data. 
 
 ### Power BI Dashboard

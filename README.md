@@ -19,7 +19,6 @@ This project aims to analyze hospital patient data to extract meaningful insight
 - **Trend Analysis by Year & Months**
 - **Patient Visits by Weektype**
 - **Parametre on AM/PM**
-- 
 
  ## Technologies Used
 - **Power BI**: For data visualization and dashboard creation.
@@ -31,11 +30,11 @@ This project aims to analyze hospital patient data to extract meaningful insight
 The project features a comprehensive Power BI dashboard that visualizes various aspects of hospital patient data. 
 
 ### Power BI Dashboard
-- ![View Power BI Dashboard](https://github.com/Samikhya-Sahoo/Hospital-Patient-Data-Analytics-Project/blob/main/POWER%20BI%20HOSPITAL%20DASHBOARD.png)
+ ![View Power BI Dashboard](https://github.com/Samikhya-Sahoo/Hospital-Patient-Data-Analytics-Project/blob/main/POWER%20BI%20HOSPITAL%20DASHBOARD.png)
 
 ## DAX Measures
 The project utilizes various DAX measures to enhance data analysis and insights. 
-- ![View DAX Measures](https://github.com/Samikhya-Sahoo/Hospital-Patient-Data-Analytics-Project/blob/main/DAX%20Measures.png)
+ ![View DAX Measures](https://github.com/Samikhya-Sahoo/Hospital-Patient-Data-Analytics-Project/blob/main/DAX%20Measures.png)
 
 ## Dataset
 The dataset used for this project can be found at the following link:
